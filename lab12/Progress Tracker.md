@@ -20,6 +20,11 @@ aliases:
 Потапов Иван Романович
 
 ---
+# Ссылка на работу
+
+[GitHub репозиторий лабораторной работы 12](https://github.com/WhXteBeXr/Project-Activities/tree/main/lab12)
+
+---
 
 # 📊 Progress Tracker[^1]
 
@@ -160,7 +165,7 @@ function addTask(taskName) {
 ## 🔗 Полезные ссылки
 
 - [Документация React](https://react.dev/)
-- [GitHub проекта](https://Ссылка на репозиторий)
+- [GitHub проекта](https://github.com/WhXteBeXr/Project-Activities/tree/main/lab12)
 
 ---
 
