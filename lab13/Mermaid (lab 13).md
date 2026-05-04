@@ -17,6 +17,11 @@
 Потапов Иван Романович
 
 ---
+# Ссылка на репозиторий [**GitHub**](https://github.com/WhXteBeXr/Project-Activities/blob/main/lab13/Mermaid%20(lab%2013).md) задания
+
+https://github.com/WhXteBeXr/Project-Activities/blob/main/lab13/Mermaid%20(lab%2013).md
+
+---
 # Алгоритм сортировки пузырьком (Bubble Sort)
 
 ## Описание
