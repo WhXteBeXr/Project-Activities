@@ -19,7 +19,7 @@
 ---
 # Диаграмма прецедентов (Use Case Diagram)
 
-## [GitHub репозиторий]()
+## [GitHub репозиторий](https://github.com/WhXteBeXr/Project-Activities/tree/main/lab14)
 
 ---
 
